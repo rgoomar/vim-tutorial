@@ -24,4 +24,5 @@ vimtutor
 [Vintage - VIM mode for sublime text 2](https://www.sublimetext.com/docs/2/vintage.html)  
 [VIM mode for sublime text 3](http://guillermooo.bitbucket.org/Vintageous/)  
 [VIM mode for Atom editor](https://github.com/atom/vim-mode)  
+[Vi keybinding list](http://hea-www.harvard.edu/~fine/Tech/vi.html)  
 
