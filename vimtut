@@ -13,6 +13,9 @@ Primary VIM modes:
 
 Esc - To get back to command mode
 -----------------------------------
+  k
+h   l
+  j
 
 j - move up
 k - move down
@@ -55,7 +58,7 @@ VIM is the best and everyone should use it... or atleast a VIM plugin
 
 ==================================
 % - Match parens / brackets
-yy - "yank" line AKA copy
+yy OR Y - "yank" line AKA copy
 v - visual mode (used for selecting)
 V - visual mode on entire line
 p - paste previously yanked characters / lines below
