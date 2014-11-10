@@ -1,0 +1,96 @@
+#################################################
+#####             Vim Tutorial             ######
+#####          By: Rishi Goomar            ######
+#################################################
+
+
+-----------------------------------
+Primary VIM modes:
+- Command
+- Visual
+- Insert
+- Replace
+
+Esc - To get back to command mode
+-----------------------------------
+
+j - move up
+k - move down
+h - move left
+l - move right
+
+e - move to end of word
+b - move to beginning of word
+w - move to next word
+B - move to previous word
+
+0 - beginning of line
+$ - end of line
+^ - first non-blank character in line
+
+gg - top of file
+G - bottom of file
+==================================
+
+  line with indent spaces
+
+==================================
+f + (character) - Find the character to the right of the cursor
+F + (character) - Find the character to the left of the cursor
+; - Repeat movement action (for f and F)
+
+: + (number) - Go to line number
+(number) + k - Move up X amount of lines
+(number) + j - Move down X amount of lines
+(number) + e,b,w,B - Move X amount of words ahead / behind
+
+r - replace character
+R - replace from cursor on
+o - insert line below (NOTE: goes to insert mode)
+O - insert line above (NOTE: goes to insert mode)
+==================================
+
+This is at HackReactor and this is a random VIM tutorial by some guy.
+VIM is the best and everyone should use it... or atleast a VIM plugin
+
+==================================
+% - Match parens / brackets
+yy - "yank" line AKA copy
+v - visual mode (used for selecting)
+V - visual mode on entire line
+p - paste previously yanked characters / lines below
+P - paste previously yanked characters / lines above
+d - Delete
+D - Delete content in line
+dd - Delete entire line
+u - undo
+Ctrl + r - redo
+Visual selection + = - indent
+/ - search
+ -- n - go to next item in search
+ -- N - go to previous item in search
+==================================
+
+var test = function() {
+  console.log('test');
+};
+
+==================================
+:vsp - Vertical split and open
+:sp - Horizontal split and open
+CTRL + h - Go to the window to the left
+CTRL + l - Go to the window to the right
+CTRL + k - Go to the window above
+CTRL + j - Go to the window below
+
+:tabnew + (file path) - open in new tab
+gt - go to next tab in cycle
+(num) + gt - go to X tab
+H - go one tab to the left
+L - go one tab to the right
+
+:w - Write (Save)
+:q - Quit
+:wq - Write and Quit
+:q! - force quit
+==================================
