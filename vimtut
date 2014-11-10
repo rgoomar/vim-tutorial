@@ -11,7 +11,7 @@ Primary VIM modes:
 - Insert
 - Replace
 
-Esc - To get back to command mode
+Esc - To get back to command mode <-- VERY IMPORTANT
 -----------------------------------
   k
 h   l
@@ -79,12 +79,12 @@ var test = function() {
 };
 
 ==================================
-:vsp - Vertical split and open
-:sp - Horizontal split and open
-CTRL + h - Go to the window to the left
-CTRL + l - Go to the window to the right
-CTRL + k - Go to the window above
-CTRL + j - Go to the window below
+:vsp + (file path) - Vertical split and open
+:sp + (file path) - Horizontal split and open
+CTRL + w + h - Go to the window to the left
+CTRL + w + l - Go to the window to the right
+CTRL + w + k - Go to the window above
+CTRL + w + j - Go to the window below
 
 :tabnew + (file path) - open in new tab
 gt - go to next tab in cycle
@@ -96,4 +96,6 @@ L - go one tab to the right
 :q - Quit
 :wq - Write and Quit
 :q! - force quit
+:wa - Save all
+:wqa - Save and quit all
 ==================================
