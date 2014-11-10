@@ -8,8 +8,8 @@ Even if you don’t want to use vim as your primary editor, it’s beneficial to
 Run: `vim vimtut` and go through the file and try those commands
 
 ## Awesome VIM configurations
-[SPF13 VIM](http://vim.spf13.com/) - My favorite one
-[Sublime-style VIM](https://github.com/grigio/vim-sublime)
+[SPF13 VIM](http://vim.spf13.com/) - My favorite one  
+[Sublime-style VIM](https://github.com/grigio/vim-sublime)  
 
 ## Resources
 
@@ -18,10 +18,10 @@ Run: `vim vimtut` and go through the file and try those commands
 vimtutor
 ```
 
-[Vimium for Chrome](http://vimium.github.io/)
-[VIM Cheatsheet](http://www.fprintf.net/vimCheatSheet.html)
-[OpenVIM tutorial](http://www.openvim.com/tutorial.html)
-[Vintage - VIM mode for sublime text 2](https://www.sublimetext.com/docs/2/vintage.html)
-[VIM mode for sublime text 3](http://guillermooo.bitbucket.org/Vintageous/)
-[VIM mode for Atom editor](https://github.com/atom/vim-mode)
+[Vimium for Chrome](http://vimium.github.io/)  
+[VIM Cheatsheet](http://www.fprintf.net/vimCheatSheet.html)  
+[OpenVIM tutorial](http://www.openvim.com/tutorial.html)  
+[Vintage - VIM mode for sublime text 2](https://www.sublimetext.com/docs/2/vintage.html)  
+[VIM mode for sublime text 3](http://guillermooo.bitbucket.org/Vintageous/)  
+[VIM mode for Atom editor](https://github.com/atom/vim-mode)  
 
