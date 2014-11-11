@@ -60,13 +60,16 @@ VIM is the best and everyone should use it... or atleast a VIM plugin
 ==================================
 % - Match parens / brackets
 yy OR Y - "yank" line AKA copy
+y(num)y - yank specified number of lines
 v - visual mode (used for selecting)
 V - visual mode on entire line
 p - paste previously yanked characters / lines below
 P - paste previously yanked characters / lines above
-d - Delete
-D - Delete content in line
-dd - Delete entire line
+x - delete character
+d + (direction) - delete character if direction is left or right, or line when direction is up or down
+D - Delete content from cursor to end of line
+dd - Delete entire line; also copies, like y -- Use p or P to paste line(s) elsewhere
+d(num)d - delete specified number of lines, and copy them
 u - undo
 Ctrl + r - redo
 Visual selection + = - indent
