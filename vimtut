@@ -3,6 +3,7 @@
 #####          By: Rishi Goomar            ######
 #################################################
 
+github.com/rgoomar/vim-tutorial
 
 -----------------------------------
 Primary VIM modes:
@@ -17,8 +18,8 @@ Esc - To get back to command mode <-- VERY IMPORTANT
 h   l
   j
 
-j - move up
-k - move down
+j - move down
+k - move up
 h - move left
 l - move right
 
