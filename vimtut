@@ -52,6 +52,8 @@ r - replace character
 R - replace from cursor on
 o - insert line below (NOTE: goes to insert mode)
 O - insert line above (NOTE: goes to insert mode)
+a - insert after current character (NOTE: goes to insert mode)
+A - insert at end of current line (NOTE: goes to insert mode)
 ==================================
 
 This is at HackReactor and this is a random VIM tutorial by some guy.
@@ -99,4 +101,6 @@ L - go one tab to the right
 :q! - force quit
 :wa - Save all
 :wqa - Save and quit all
+
+ZZ - equivalent to :wq
 ==================================
